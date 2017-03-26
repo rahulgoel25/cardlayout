@@ -1,0 +1,10 @@
+@import url(../node_modules/bootstrap/dist/css/bootstrap.min.css);
+.card {
+  margin: 35px 35px 0 0;
+  text-align: center;
+  border: solid 1px gray;
+  background: beige;
+  width: 250px;
+  display: block;
+  float: left;
+  border-radius: 5px; }
